@@ -1,0 +1,8 @@
+SaleID,Customer,Product,Category,Quantity,Price,Date
+1,Alice,Laptop,Electronics,1,70000,2026-08-01
+2,Bob,Phone,Electronics,2,30000,2026-08-02
+3,Charlie,Keyboard,Accessories,3,1200,2026-08-03
+4,David,Mouse,Accessories,5,800,2026-08-04
+5,Eva,Monitor,Electronics,1,15000,2026-08-05
+6,Alice,Phone,Electronics,1,30000,2026-08-06
+7,Bob,Monitor,Electronics,2,15000,2026-08-07
