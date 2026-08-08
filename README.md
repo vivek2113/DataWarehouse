@@ -1,7 +1,7 @@
 # Data Warehouse System
 
 ## Description
-A simple Data Warehouse System developed in Python for an MSc assignment.
+A simple Data Warehouse System developed in Python and SQLite for an MSc assignment.
 
 ## Features
 - Extract data from CSV
